@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding, music, and creativity. Here you'll find a collection of my projects, contributions, and collaborations.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m learning [New Technology or Language]
-- 👯 I’m looking to collaborate on [Projects You Want to Collaborate On]
+- 🔭 I’m currently working on Aetheric Developments
+- 🌱 I’m learning Mandarin
+- 👯 I’m looking to collaborate on Quantum Entanglement + AI
 - 🤔 I’m looking for help with [Areas You're Seeking Help In]
 - 💬 Ask me about [Your Expertise or Interests]
 - 📫 How to reach me: [Your Email or Social Media]
