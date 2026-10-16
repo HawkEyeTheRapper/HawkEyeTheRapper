@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 [![Website](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)
 
 ## 🎵 Music Projects
-- [Project 1](https://link-to-project.com)
-- [Project 2](https://link-to-project.com)
+- [Project 1](https://hawkeyetherapper.app)
+- [Project 2](https://reincarnated2resist.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
